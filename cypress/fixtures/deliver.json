@@ -1,0 +1,54 @@
+{
+    "signup":{
+        "name": "Ian Manuel da Rocha",
+        "cpf": "98793396490",
+        "email": "ianmanueldarocha@umbernardo.com.br",
+        "whatsapp": "(83) 99200-0222",
+        "address":{
+            "postalcode": "40020-176",
+            "street": "Ladeira da Montanha",
+            "district":"Centro",
+            "city_state":"Salvador/BA",
+            "number": "1450",
+            "datails": "Ap 71"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"    
+    },
+
+    "cpf_inv":{
+        "name": "Jorge Manuel da Costa",
+        "cpf": "000000000XX",
+        "email": "manoel_jorge@hotmail.com",
+        "whatsapp": "(11) 99450-7222",
+        "address":{
+            "postalcode": "40020-176",
+            "street": "Ladeira da Montanha",
+            "district":"Centro",
+            "city_state":"Salvador/BA",
+            "number": "1450",
+            "datails": "Ap 71"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg" 
+    },
+    
+    "email_inv":{
+        "name": "Marcela Dias de Farias",
+        "cpf": "32146597854",
+        "email": "marcela_dias.com.br",
+        "whatsapp": "(11) 94578-0000",
+        "address":{
+            "postalcode": "01424-004",
+            "street": "Alameda Lorena",
+            "district":"Jardim Paulista",
+            "city_state":"São Paulo/SP",
+            "number": "1150",
+            "datails": "Ap 1006"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg" 
+
+    }
+ 
+}
